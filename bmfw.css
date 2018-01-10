@@ -1,0 +1,54 @@
+* {
+	background-color: #FFFFFF;
+}
+
+div {
+	/*le seul truc que j'ai regardé sur le code source car je ne trouvais vraiment pas (margin auto et max width)*/
+	display: block;
+	max-width: 650px;
+	margin: 40px auto;
+}
+
+h1{
+	font-size: 36px;
+	font-family: "Times New Roman" bold;
+	line-height: 43px;
+}
+
+h2{
+	font-size: 27px;
+	font-family: "Times New Roman" bold;
+	line-height: 32px;
+}
+
+h3{
+	font-family: "Times New Roman" bold;
+}
+
+h3, p, ul {
+	font-family: "Times New Roman" regular;
+	font-size: 18px;
+	line-height: 28px;
+}
+
+blockquote {
+	font-family: "Times New Roman" regular;
+	font-size: 18px;
+	line-height: 28px;
+}
+
+.monospace {
+font-family: "Monospace" regular;
+}
+
+.others {
+	font-size: 21px;
+	line-height: 25px;
+}
+
+#first {
+	font-size: 18px;
+	line-height: 28px;
+}
+
+
